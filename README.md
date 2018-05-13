@@ -9,7 +9,7 @@ git clone git@github.com:helloyongwei/AJAX-demo.git
 ```node
 node server.js 8888
 ```
-8888是端口, 你可以自行指定端口
+`8888`是端口, 你可以自行指定端口
 
 在浏览其输入如下URL即可:
 ```
